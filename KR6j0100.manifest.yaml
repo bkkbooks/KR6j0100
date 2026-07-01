@@ -1,0 +1,53 @@
+canonical_identifier: bkk:krp/KR6j0100/v1
+canonical_location: https://kanripo.org/bkk/KR6j0100/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 修藥師儀軌布壇法
+  identifiers:
+    alt_id:
+    - T19n0928
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0928.xml
+    old_id: T19n0928
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0100_000.yaml, hash: 'sha256:4f084076c394813f0200793da443796316b361ef38194c6b403d9b37e658d29f'}
+  - {seq: 1, filename: KR6j0100_001.yaml, hash: 'sha256:b60dedb53d74306bcdb6dff38edf0b62a2d3cf7e11a798cb19b4d9660ce7c2e5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0100_000.markers.yaml, hash: 'sha256:aa799eb6dfc70efc6768aa22f2c9984ef43c93a9aa5a77c81c46120a1ea93d86'}
+  - {seq: 1, role: markers, filename: assets/KR6j0100_001.markers.yaml, hash: 'sha256:7208afe5650d5b8036d53c73ce142d286ef6a6bb968079a5886a3b18fe1a9ce0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0100_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 重刻藥師七佛供養儀軌經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0100_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2388
+  label: 修藥師儀軌布壇法
+  type: juan
+  level: 1
+hash: sha256:464bbf52170bf935b9842a77fa518d0cadab36a6ee67b3d17ac7a6f7a6954309
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
