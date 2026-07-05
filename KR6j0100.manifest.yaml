@@ -21,11 +21,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0100_000.yaml, hash: 'sha256:4f084076c394813f0200793da443796316b361ef38194c6b403d9b37e658d29f'}
-  - {seq: 1, filename: KR6j0100_001.yaml, hash: 'sha256:b60dedb53d74306bcdb6dff38edf0b62a2d3cf7e11a798cb19b4d9660ce7c2e5'}
+  - {seq: 0, filename: KR6j0100_000.yaml, hash: 'sha256:fc0f41d43476fbc1200ac12ea007c113ced1cf37b7794ac3335fdd76324a9ea5'}
+  - {seq: 1, filename: KR6j0100_001.yaml, hash: 'sha256:d2e1e1e6a84e0d74e4cc426f0cef08d62244c29aad89aa5b8b50138a9320a3a7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0100_000.markers.yaml, hash: 'sha256:aa799eb6dfc70efc6768aa22f2c9984ef43c93a9aa5a77c81c46120a1ea93d86'}
-  - {seq: 1, role: markers, filename: assets/KR6j0100_001.markers.yaml, hash: 'sha256:7208afe5650d5b8036d53c73ce142d286ef6a6bb968079a5886a3b18fe1a9ce0'}
+  - {seq: 0, role: markers, filename: assets/KR6j0100_000.markers.yaml, hash: 'sha256:9f37723fcd5cdf8bdfba54e1d4dcb922ea6352eec0d53bed51c2bf25e826ca3b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0100_001.markers.yaml, hash: 'sha256:7da5b1dcc1dd7a3628974bb47a1b9f3311b049b922563ebd0c8bb2864213f062'}
 table_of_contents:
 - ref:
     seq: 0
@@ -47,7 +47,4 @@ table_of_contents:
   label: 修藥師儀軌布壇法
   type: juan
   level: 1
-hash: sha256:464bbf52170bf935b9842a77fa518d0cadab36a6ee67b3d17ac7a6f7a6954309
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5078902325202ea2602e3a1a7ac82aa26ecdb83e090dac3886e717580a68b1c5
