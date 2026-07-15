@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0100/v1
 canonical_location: https://kanripo.org/bkk/KR6j0100/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 修藥師儀軌布壇法
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0100_000.yaml, hash: 'sha256:fc0f41d43476fbc1200ac12ea007c113ced1cf37b7794ac3335fdd76324a9ea5'}
-  - {seq: 1, filename: KR6j0100_001.yaml, hash: 'sha256:d2e1e1e6a84e0d74e4cc426f0cef08d62244c29aad89aa5b8b50138a9320a3a7'}
+  - {seq: 0, filename: KR6j0100_000.yaml, hash: 'sha256:aae04381eb8e598b1f7fcd9b7d5ee5d53fd63250385bc34dd6be43025ca3da63'}
+  - {seq: 1, filename: KR6j0100_001.yaml, hash: 'sha256:8604633cfeb8bc760942d90c7cda0f401276f8f53215eac6d1fd77bb384f7700'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0100_000.markers.yaml, hash: 'sha256:9f37723fcd5cdf8bdfba54e1d4dcb922ea6352eec0d53bed51c2bf25e826ca3b'}
-  - {seq: 1, role: markers, filename: assets/KR6j0100_001.markers.yaml, hash: 'sha256:7da5b1dcc1dd7a3628974bb47a1b9f3311b049b922563ebd0c8bb2864213f062'}
+  - {seq: 0, role: markers, filename: assets/KR6j0100_000.markers.yaml, hash: 'sha256:85e1f4a24ec6f69e91310bb91a0e80ec78c76fff1a09309f907cea847b917e70'}
+  - {seq: 1, role: markers, filename: assets/KR6j0100_001.markers.yaml, hash: 'sha256:78583f509a59daec8b3542e745c5c210afbd789e112db2a3479dc6e975c094c2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -47,4 +47,7 @@ table_of_contents:
   label: 修藥師儀軌布壇法
   type: juan
   level: 1
-hash: sha256:5078902325202ea2602e3a1a7ac82aa26ecdb83e090dac3886e717580a68b1c5
+hash: sha256:bad08dcf4cb2d8378a465be6da3dd57a54ad5ba51e05317f44817a9fc2d78f3c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
