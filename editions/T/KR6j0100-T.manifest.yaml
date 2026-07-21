@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0100_000-T.yaml, hash: 'sha256:fc0f41d43476fbc1200ac12ea007c113ced1cf37b7794ac3335fdd76324a9ea5'}
+  - {seq: 0, filename: KR6j0100_000-T.yaml, hash: 'sha256:b54f68f67b9d37ccdd65bda269da7265e4891a477ee6556eda9ed54b8d66d4a5'}
   - {seq: 1, filename: KR6j0100_001-T.yaml, hash: 'sha256:d2e1e1e6a84e0d74e4cc426f0cef08d62244c29aad89aa5b8b50138a9320a3a7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0100_000-T.markers.yaml, hash: 'sha256:407faa55200b90c17b176f2e1723c54bc73a146e52233f70ce1f42652cf14472'}
+  - {seq: 0, role: markers, filename: assets/KR6j0100_000-T.markers.yaml, hash: 'sha256:c0d32902497d88a52dca4bede3660a823cb147437b1041864cd567886fc03f30'}
   - {seq: 1, role: markers, filename: assets/KR6j0100_001-T.markers.yaml, hash: 'sha256:ab5ee6aeeda16a94693d9e6344b5c3da3e5c9b786070b2a31b30baafa3d16700'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0100_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 重刻藥師七佛供養儀軌經序
@@ -45,4 +45,4 @@ table_of_contents:
   label: 修藥師儀軌布壇法
   type: juan
   level: 1
-hash: sha256:617045e2f18e23e5bafdd90038d2196314d90d81cd1e8362ebf2824c6c2f9482
+hash: sha256:d3567a8739b40c118e69766957d1cae7618afbcd43dc0ae6189922a59a79606f
